@@ -1,0 +1,37 @@
+#tabela1 {
+  width: 100%;
+}
+#contanier {
+  width: 100vw;
+  height: 100vh;
+  background: #6c7a89;
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  align-items: center;
+}
+#box {
+  width: 30%;
+  height: 70%;
+  background: #fff;
+  text-align: center;
+  font-family: sans-serif;
+}
+body {
+  margin: 0px;
+}
+#labelNome {
+  width: 20px;
+}
+#labelCpf {
+  width: 20px;
+}
+#et_cpf {
+  width: 190px;
+}
+#et_nome {
+  width: 40px;
+}
+table {
+  text-align: center;
+}
